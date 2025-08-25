@@ -17,3 +17,7 @@
    https://www.kaggle.com/datasets/deewakarchakraborty/portrait-paintings
 
 ------
+### 디렉토리 구조
+1. Main : 최종 코드 소스
+2. DCGAN : DCGAN 모델 팀원별 직접 구현
+3. SDXL + LoRA : LoRA fine-tuning + SDXL 모델 팀원별 직접 구현

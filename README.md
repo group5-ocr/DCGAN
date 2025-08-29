@@ -27,3 +27,7 @@
 - DCGAN 브렌치 : 손단하 파일
 - SD+LoRA 브랜치 : 고현서 파일, 노현지 파일
 위치해 있습니다.
+
+-----
+## 개인 공부 링크
+https://www.notion.so/2025-08-24-257a304ac1128085bd88fa0188294e27?source=copy_link

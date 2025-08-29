@@ -18,6 +18,12 @@
 
 ------
 ### 디렉토리 구조
-1. Main : 최종 코드 소스
-2. DCGAN : DCGAN 모델 팀원별 직접 구현
-3. SDv1.5 + LoRA : LoRA fine-tuning + SDv1.5 모델 팀원별 직접 구현
+1. Main : 최종 코드 소스.zip
+2. DCGAN : DCGAN 모델 팀원별 직접 구현 (가중치 파일 포함)
+3. SDv1.5 + LoRA : LoRA fine-tuning + SDv1.5 모델 팀원별 직접 구현 (가중치 파일 포함)
+
+-----
+## 최종 코드 소스에 사용된 코드 위치
+- DCGAN 브렌치 : 손단하 파일
+- SD+LoRA 브랜치 : 고현서 파일, 노현지 파일
+위치해 있습니다.
